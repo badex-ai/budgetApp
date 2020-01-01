@@ -1,4 +1,4 @@
-# budgetApp
+# BudgetApp
 
 This budget app was built while learning the fundamentals of javscript technology language.
 
